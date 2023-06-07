@@ -9,7 +9,6 @@ body {
   width: 1200px;
   margin-left: auto;
   margin-right: auto;
-
   background-color: #fff;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
@@ -18,14 +17,14 @@ body {
 .projects,
 .jobs,
 .education {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   align-items: center;
 }
 
 .right-side {
   width: 830px;
   padding-left: 80px;
-  padding-right: 100px;
+  padding-right: 75px;
   padding-top: 68px;
   padding-bottom: 68px;
 }
